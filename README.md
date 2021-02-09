@@ -1,5 +1,7 @@
 # mfc_study
 
+https://www.youtube.com/watch?v=Zrz9HSwbeqQ
+
 </br>
 
 # mfc 실습
